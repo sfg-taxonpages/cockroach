@@ -12,25 +12,25 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
 <div>
 <table style="text-align: center;">
     <tbody>
-        <tr>
-            <td>
-                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"
+        <tr valign="bottom">
+            <td style="text-align: center;">
+                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" style="border-style: none;"
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Lucihormetica_fenestrataSmall.jpg" width="150px"><br>
                 <i>Lucihormetica fenestrata</i>
             </td>
-            <td>
-                <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák"
+            <td style="text-align: center;">
+                <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" style="border-style: none;"
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Eucorydia_sp.jpg" width="150px"><br>
                 <i>Eucorydia</i> sp.
             </td>
-            <td>
+            <td style="text-align: center;">
                 <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Elliptorhina_javanicaSmall.jpg" width="150px"><br>
                 <i>Elliptorhina javanica</i>
             </td>
-            <td>
-                <img src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Capucina_sp.jpg" width="150px">
-                <!-- alt="Copyright Josef Dvořáki" title="Copyright Josef Dvořák" -->
+            <td style="text-align: center;">
+                <img alt="Copyright Josef Dvořáki" title="Copyright Josef Dvořák" 
+                    src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Capucina_sp.jpg" width="150px">
                 <br>
                 <i>Capucina</i> sp.
             </td>
