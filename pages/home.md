@@ -14,12 +14,12 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
     <tbody>
         <tr valign="bottom">
             <td style="text-align: center;">
-                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" style="border-style: none;"
+                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" 
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Lucihormetica_fenestrataSmall.jpg" width="150px"><br>
                 <i>Lucihormetica fenestrata</i>
             </td>
             <td style="text-align: center;">
-                <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" style="border-style: none;"
+                <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" 
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Eucorydia_sp.jpg" width="150px"><br>
                 <i>Eucorydia</i> sp.
             </td>
