@@ -13,23 +13,23 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
 <table style="text-align: center;">
     <tbody>
         <tr valign="bottom">
-            <td style="text-align: center;">
+            <td>
                 <img 
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Lucihormetica_fenestrataSmall.jpg" width="130px"><br>
                 <!-- alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"  --->
                 <i>Lucihormetica fenestrata</i>
             </td>
-            <td style="text-align: center;">
+            <td>
                 <img 
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Eucorydia_sp.jpg" width="130px"><br>
                 <!-- alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" -->
                 <i>Eucorydia</i> sp.
             </td>
-            <td style="text-align: center;">
+            <td>
                 <img src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Elliptorhina_javanicaSmall.jpg" width="130px"><br>
                 <i>Elliptorhina javanica</i>
             </td>
-            <td style="text-align: center;">
+            <td>
                 <img 
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Capucina_sp.jpg" width="130px">
                 <br>
