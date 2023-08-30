@@ -55,6 +55,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
                     width="250px" height="146px" style="border-style: none;"><br>
                 <i>Ectobius lapponicus</i>
             </td>
+        </tr>
         <tr valign="bottom">
             <td width="33%" style="text-align: center;">
                 <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák"
