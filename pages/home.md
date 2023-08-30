@@ -14,22 +14,23 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
     <tbody>
         <tr valign="bottom">
             <td style="text-align: center;">
-                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" 
+                <img 
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Lucihormetica_fenestrataSmall.jpg" width="150px"><br>
+                <!-- alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"  --->
                 <i>Lucihormetica fenestrata</i>
             </td>
             <td style="text-align: center;">
-                <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" 
+                <img 
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Eucorydia_sp.jpg" width="150px"><br>
+                <!-- alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" -->
                 <i>Eucorydia</i> sp.
             </td>
             <td style="text-align: center;">
-                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"
-                    src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Elliptorhina_javanicaSmall.jpg" width="150px"><br>
+                <img src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Elliptorhina_javanicaSmall.jpg" width="150px"><br>
                 <i>Elliptorhina javanica</i>
             </td>
             <td style="text-align: center;">
-                <img alt="Copyright Josef Dvořáki" title="Copyright Josef Dvořák" 
+                <img 
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Capucina_sp.jpg" width="150px">
                 <br>
                 <i>Capucina</i> sp.
