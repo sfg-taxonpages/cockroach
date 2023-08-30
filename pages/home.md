@@ -18,7 +18,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
                 <i>Lucihormetica fenestrata</i>
             </td>
             <td>
-                <img  alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" src="/public/Images/Eucorydia_sp.jpg"><br>
+                <img  alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" src="/public/Images/Eucorydia_sp.jpg" style="border-style: none; width: 150px;"><br>
                 <i>Eucorydia</i> sp.
             </td>
             <td>
