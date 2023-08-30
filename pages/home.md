@@ -11,25 +11,25 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
 <table>
     <tbody>
         <tr valign="bottom">
-            <td valign="bottom" style="text-align: center;">
+            <td width="25%" style="text-align: center;">
                 <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Lucihormetica_fenestrataSmall.jpg"
                     width="130px" style="border-style: none;"><br>
                 <i>Lucihormetica fenestrata</i><br>
             </td>
-            <td>
+            <td width="25%">
                 <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák"
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Eucorydia_sp.jpg"
                     width="130px" style="border-style: none;"><br>
                 <i>Eucorydia</i> sp.<br>
             </td>
-            <td>
+            <td width="25%">
                 <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Elliptorhina_javanicaSmall.jpg"
                     width="130px" style="border-style: none;"><br>
                 <i>Elliptorhina javanica</i><br>
             </td>
-            <td>
+            <td width="25%">
                 <img alt="Copyright Josef Dvořáki" title="Copyright Josef Dvořák"
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Capucina_sp.jpg"
                     width="130px" style="border-style: none;"><br>
@@ -56,7 +56,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
                 <i>Ectobius lapponicus</i>
             </td>
         <tr valign="bottom">
-            <td style="text-align: center;">
+            <td width="33%" style="text-align: center;">
                 <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák"
                     src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Polyzosteria_mitchelli.jpg"
                     width="150px" style="border-style: none;"><br>
