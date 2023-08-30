@@ -8,6 +8,8 @@
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
 _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app:project_url}}/otu/{id}/overview), [{Family}]({{app:project_url}}/otu/{id}/overview), or [{Genus}]({{app:project_url}}/otu/{id}/overview)._
+
+<div>
 <table style="text-align: center;">
     <tbody>
         <tr valign="bottom">
@@ -80,6 +82,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
 -->
     </tbody>
 </table>
+</div>
 
 ## Discover more
 Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
