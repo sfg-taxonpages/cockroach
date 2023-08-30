@@ -15,23 +15,23 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
         <tr valign="bottom">
             <td>
                 <img 
-                    src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Lucihormetica_fenestrataSmall.jpg" width="130px"><br>
+                    src="/public/Images/Lucihormetica_fenestrataSmall.jpg" width="130px"><br>
                 <!-- alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"  --->
                 <i>Lucihormetica fenestrata</i>
             </td>
             <td>
                 <img 
-                    src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Eucorydia_sp.jpg" width="130px"><br>
+                    src="/public/Images/Eucorydia_sp.jpg" width="130px"><br>
                 <!-- alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" -->
                 <i>Eucorydia</i> sp.
             </td>
             <td>
-                <img src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Elliptorhina_javanicaSmall.jpg" width="130px"><br>
+                <img src="/public/Images/Elliptorhina_javanicaSmall.jpg" width="130px"><br>
                 <i>Elliptorhina javanica</i>
             </td>
             <td>
                 <img 
-                    src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Capucina_sp.jpg" width="130px">
+                    src="/public/Images/Capucina_sp.jpg" width="130px">
                 <br>
                 <i>Capucina</i> sp.
             </td>
