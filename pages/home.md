@@ -14,21 +14,21 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
         <tr valign="bottom">
             <td>
                 <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" 
-                    src="/public/Images/Lucihormetica_fenestrataSmall.jpg" width="130px"><br>
+                    src="/public/Images/Lucihormetica_fenestrataSmall.jpg" style="border-style: none; width: 150px;"><br>
                 <i>Lucihormetica fenestrata</i>
             </td>
             <td>
                 <img  alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" 
-                    src="/public/Images/Eucorydia_sp.jpg" width="130px"><br>
+                    src="/public/Images/Eucorydia_sp.jpg"  style="border-style: none; width: 150px;"><br>
                 <i>Eucorydia</i> sp.
             </td>
             <td>
-                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" src="/public/Images/Elliptorhina_javanicaSmall.jpg" width="130px"><br>
+                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" src="/public/Images/Elliptorhina_javanicaSmall.jpg"  style="border-style: none; width: 150px;"><br>
                 <i>Elliptorhina javanica</i>
             </td>
             <td>
                 <img  alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" 
-                    src="/public/Images/Capucina_sp.jpg" width="130px">
+                    src="/public/Images/Capucina_sp.jpg"  style="border-style: none; width: 150px;">
                 <br>
                 <i>Capucina</i> sp.
             </td>
