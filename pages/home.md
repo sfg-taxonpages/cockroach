@@ -36,19 +36,19 @@ _Try searching for "Nocticolidae", "{Aus}", "{Aus bus}"}, or start at [Blattodea
             <td style="text-align: center;">
                 <img alt="Copyright Thierry Garcia" title="Copyright Thierry Garcia"
                     src="https://sfg.taxonworks.org/s/3um9dh"
-                    width="250px" style="border-style: none;"><br>
+                    style="border-style: none; width: 150px;"><br>
                 <i>Melyroidea magnifica</i>
             </td>
             <td style="text-align: center;">
                 <img alt="Copyright Stephane Brouard" title="Copyright Stephane Brouard"
                     src="https://sfg.taxonworks.org/s/f7v8ur"
-                    width="250px" style="border-style: none;"><br>
+                    style="border-style: none; width: 150px;"><br>
                 <i>Periplaneta americana</i>
             </td>
             <td style="text-align: center;">
                 <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"
                     src="https://sfg.taxonworks.org/s/5poz1w"
-                    width="250px" height="146px" style="border-style: none;"><br>
+                    style="border-style: none; width: 150px;"><br>
                 <i>Ectobius lapponicus</i>
             </td>
         </tr>
@@ -56,19 +56,19 @@ _Try searching for "Nocticolidae", "{Aus}", "{Aus bus}"}, or start at [Blattodea
             <td style="text-align: center;">
                 <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák"
                     src="https://sfg.taxonworks.org/s/7idonn"
-                    width="150px" style="border-style: none;"><br>
+                    style="border-style: none; width: 150px;"><br>
                 <i>Polyzosteria mitchelli</i>
             </td>
             <td style="text-align: center;">
                 <img alt="Copyright Gernot Kunz" title="Copyright Gernot Kunz"
                     src="https://sfg.taxonworks.org/s/t9apg3"
-                    width="325px" style="border-style: none;"><br>
+                    style="border-style: none; width: 150px;"><br>
                 <i>Prosoplecta semperi</i>.
             </td>
             <td style="text-align: center;">
                 <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák"
                     src="https://sfg.taxonworks.org/s/b1pfy5"
-                    width="150px" style="border-style: none;"><br>
+                    style="border-style: none; width: 150px;"><br>
                 <i>Caeparia</i> sp.
             </td>
         </tr>
