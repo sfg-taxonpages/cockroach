@@ -14,20 +14,20 @@ _Try searching for "Nocticolidae", "{Aus}", "{Aus bus}"}, or start at [Blattodea
         <tr valign="bottom">
             <td>
                 <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" 
-                    src="/public/Images/Lucihormetica_fenestrataSmall.jpg"><br>
+                    src="https://sfg.taxonworks.org/s/hu6gny"><br>
                 <i>Lucihormetica fenestrata</i>
             </td>
             <td>
-                <img  alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" src="/public/Images/Eucorydia_sp.jpg" style="border-style: none; width: 150px;"><br>
+                <img  alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" src="https://sfg.taxonworks.org/s/2n66nl" style="border-style: none; width: 150px;"><br>
                 <i>Eucorydia</i> sp.
             </td>
             <td>
-                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" src="/public/Images/Elliptorhina_javanicaSmall.jpg"  style="border-style: none; width: 150px;"><br>
+                <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni" src="https://sfg.taxonworks.org/s/7dba7n"  style="border-style: none; width: 150px;"><br>
                 <i>Elliptorhina javanica</i>
             </td>
             <td>
                 <img  alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák" 
-                    src="/public/Images/Capucina_sp.jpg"  style="border-style: none; width: 150px;">
+                    src="https://sfg.taxonworks.org/s/6k8lfv"  style="border-style: none; width: 150px;">
                 <br>
                 <i>Capucina</i> sp.
             </td>
@@ -35,19 +35,19 @@ _Try searching for "Nocticolidae", "{Aus}", "{Aus bus}"}, or start at [Blattodea
         <tr valign="bottom">
             <td style="text-align: center;">
                 <img alt="Copyright Thierry Garcia" title="Copyright Thierry Garcia"
-                    src="/public/Images/Melyroidea_magnifica.jpg"
+                    src="https://sfg.taxonworks.org/s/3um9dh"
                     width="250px" style="border-style: none;"><br>
                 <i>Melyroidea magnifica</i>
             </td>
             <td style="text-align: center;">
                 <img alt="Copyright Stephane Brouard" title="Copyright Stephane Brouard"
-                    src="/public/Images/Periplaneta_americanaSmall.jpg"
+                    src="https://sfg.taxonworks.org/s/f7v8ur"
                     width="250px" style="border-style: none;"><br>
                 <i>Periplaneta americana</i>
             </td>
             <td style="text-align: center;">
                 <img alt="Copyright G. W. Beccaloni" title="Copyright G. W. Beccaloni"
-                    src="/public/Images/Ectobius_lapponicus.jpg"
+                    src="https://sfg.taxonworks.org/s/5poz1w"
                     width="250px" height="146px" style="border-style: none;"><br>
                 <i>Ectobius lapponicus</i>
             </td>
@@ -55,19 +55,19 @@ _Try searching for "Nocticolidae", "{Aus}", "{Aus bus}"}, or start at [Blattodea
         <tr valign="bottom">
             <td style="text-align: center;">
                 <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák"
-                    src="/public/Images/Polyzosteria_mitchelli.jpg"
+                    src="https://sfg.taxonworks.org/s/7idonn"
                     width="150px" style="border-style: none;"><br>
                 <i>Polyzosteria mitchelli</i>
             </td>
             <td style="text-align: center;">
                 <img alt="Copyright Gernot Kunz" title="Copyright Gernot Kunz"
-                    src="/public/Images/Prosoplecta_sp.jpg"
+                    src="https://sfg.taxonworks.org/s/t9apg3"
                     width="325px" style="border-style: none;"><br>
                 <i>Prosoplecta semperi</i>.
             </td>
             <td style="text-align: center;">
                 <img alt="Copyright Josef Dvořák" title="Copyright Josef Dvořák"
-                    src="http://Cockroach.archive.speciesfile.org/HomePage/Cockroach/img_Logo/Caeparia_sp.jpg"
+                    src="https://sfg.taxonworks.org/s/b1pfy5"
                     width="150px" style="border-style: none;"><br>
                 <i>Caeparia</i> sp.
             </td>
