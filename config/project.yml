@@ -1,9 +1,9 @@
 ---
-  project_name: 'Cockroach Species File'
-  project_citation: 'Cockroach Species File Online'
-  project_authors: 'Beccaloni, G. W., Hopkins, H.'
-  project_url: 'https://cockroach.speciesfile.org'
-  project_old_url: 'https://cockroach.archive.speciesfile.org'
+  project_name: "Cockroach Species File"
+  project_citation: "George Beccaloni. Cockroach Species File. Version 5.0/5.0. [retrieval date]. <http://Cockroach.SpeciesFile.org>"
+  project_authors: "Beccaloni, G.W."
+  project_url: "https://cockroach.speciesfile.org"
+  project_old_url: "https://cockroach.archive.speciesfile.org"
   focal_taxon: "blattodea"
-  focal_taxon_common_name: 'cockroaches'
-  contact_email: 'g.beccaloni@gmail.com'
+  focal_taxon_common_name: "cockroaches"
+  contact_email: "g.beccaloni@gmail.com"
