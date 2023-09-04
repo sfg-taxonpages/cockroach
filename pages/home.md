@@ -3,11 +3,8 @@
 ---
 
 # {{ app:project_name }}
-{TODO: Mission statement, or vision and purpose: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.}
-
-<autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
-
-_Try searching for "Nocticolidae", "{Aus}", "{Aus bus}"}, or start at [Blattodea]({{app:project_url}}/otu/856752/overview), [{Family}]({{app:project_url}}/otu/{id}/overview), or [{Genus}]({{app:project_url}}/otu/{id}/overview)._
+## Mission statement
+The Cockroach Species File works to build a comprehensive source for knowledge about the world’s cockroaches. Information found here includes valid names, synonyms, bibliographic data, specimen data, images, and distributions for cockroaches of the world. Our site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
 
 <table style="text-align: center;">
     <tbody>
@@ -75,11 +72,19 @@ _Try searching for "Nocticolidae", "{Aus}", "{Aus bus}"}, or start at [Blattodea
     </tbody>
 </table>
 
+## Search
+
+<autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
+
+Explore!
+
+Try searching for species _[Blattella infuscata](http://cockroach.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1179276)_, or start at Genus _[Blattella](http://cockroach.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1174594),_  or Family _[Blattellidae](http://cockroach.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1174511)._
+
 ## Discover more
 Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
 
 ## Announcements
-### Welcom to the new Cockroach Species File taxon Pages site !
-The old site is still available for comparison purposes at [http://Cockroach.speciesfile.org](http://Cockroach.speciesfile.org)
-
-_J. Richard Flood 30AUG2023_
+### Welcome to our new Cockroach Species File Website
+George Beccaloni, Heidi Hopkins, David C. Eades, 2023-08-15
+<p>As of August 2023, we would like to welcome you to our new Cockroach Species File website. We look forward to hearing from you about your experiences with our new features as well as how you put to use the information you find here.
+</p>
