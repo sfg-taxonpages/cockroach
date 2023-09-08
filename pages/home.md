@@ -78,7 +78,7 @@ The Cockroach Species File works to build a comprehensive source for knowledge a
 
 Explore!
 
-Try searching for species _[Blattella infuscata](http://cockroach.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1179276)_, or start at Genus _[Blattella](http://cockroach.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1174594),_  or Family _[Blattellidae](http://cockroach.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1174511)._
+Try searching for species _Blattella infuscata_, or start your exploration at Genus [Blattella]({{app:project_url}}/otu/859519/overview),  or Family [Blattellidae]({{app:project_url}}/otu/859439/overview).
 
 ## Discover more
 Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
