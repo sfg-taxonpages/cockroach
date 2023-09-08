@@ -3,6 +3,6 @@ metadata:
   - name: description
     content: The Cockroach Species File is a taxonomic, nomenclatural, and bibliographic database of the cockroaches of the world, including all extant and fossil taxa, but excluding termites.
   - name: keywords
-    content: taxonomy, species, Species File Group, SFG, Cockroaches, Blattodea, taxonpages, Cockroach Species File.
+    content: taxonomy, species, Species File Group, Cockroaches, Blattodea, Blattoptera, taxonpages, Cockroach Species File
   - name: robots
     content: follow
