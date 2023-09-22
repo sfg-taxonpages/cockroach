@@ -1,0 +1,4 @@
+analytics_services:
+  enableDev: true
+  analytics:
+    - id: 'G-P4ZS3QX7B9'
