@@ -78,7 +78,7 @@ The Cockroach Species File works to build a comprehensive source for knowledge a
 
 Explore!
 
-Try searching for species _Blattella infuscata_, or start your exploration at Genus [<i>Blattella</i>]({{app:project_url}}/otus/859519/overview),  or Family [Blattellidae]({{app:project_url}}/otus/859439/overview).
+Try searching for species _Blattella infuscata_, or start your exploration at Genus [<i>Blattella</i>](/otus/859519/overview),  or Family [Blattellidae](/otus/859439/overview).
 
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, the development [team](about#project-development-and-maintenance), and details about how you can [access the data, contribute, contact us, or get help](about#contribute-or-get-help). 
