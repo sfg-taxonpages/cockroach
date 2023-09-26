@@ -3,7 +3,7 @@
   project_citation: "Cockroach Species File"
   project_authors: "Beccaloni, G.W."
   project_url: "https://cockroach.speciesfile.org"
-  project_old_url: "https://cockroach.archive.speciesfile.org"
+  project_old_url: "http://cockroach.archive.speciesfile.org"
   focal_taxon: "blattodea"
   focal_taxon_common_name: "cockroaches"
   contact_email: "cockroachdoc@gmail.com"
