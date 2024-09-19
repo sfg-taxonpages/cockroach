@@ -1,7 +1,7 @@
 ---
   project_name: "Cockroach Species File"
   project_citation: "Cockroach Species File"
-  project_authors: "Beccaloni, G.W."
+  project_authors: "Cockroach Working Group"
   project_url: "https://cockroach.speciesfile.org"
   project_old_url: "http://cockroach.archive.speciesfile.org"
   focal_taxon: "cockroach"
