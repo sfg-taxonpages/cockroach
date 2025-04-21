@@ -11,8 +11,8 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 
 |name|role|
 |----|----|
-| George Beccaloni | Author |
 | Heidi Hopkins | Editor |
+| George Beccaloni\* | Author |
 | David C. Eades\* | Developer |
 
 _\* Past contributor, now inactive._
@@ -20,7 +20,7 @@ _\* Past contributor, now inactive._
 ### Contribute or get help
 The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project may include an incomplete catalog of type-material, incomplete photographic depictions, missing biological associations, incomplete distribution records, and more. Contact us to <TrackerReport label="Report a problem or offer data" tag="a" button-class="cursor-pointer" /> (bugs or data issues) on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
 
-- **Cite** this website: Beccaloni, G. Cockroach Species File. [retrieval date]. <https://cockroach.speciesfile.org>. See also [Terms of use](#terms-of-use).
+- **Cite** this website: Cockroach Species File. [retrieval date]. <https://cockroach.speciesfile.org>. See also [Terms of use](#terms-of-use).
 
 ### Extended data access
 A goal of these pages is to ensure that the underlying data behind them are accessible in their digital format. By diversifying the ways the data are accessible (e.g. on the web page, in JSON, in Darwin Core standard), we increase the opportunities to both spot errors and provide new services and portals.
