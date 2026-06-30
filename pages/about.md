@@ -11,7 +11,7 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 
 |name|role|
 |----|----|
-| Heidi Hopkins | Founding author of termite data |
+| Heidi Hopkins |  |
 | George Beccaloni\* | Founding author of cockroach data |
 | David C. Eades\* | Species File Developer |
 
