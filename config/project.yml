@@ -4,6 +4,6 @@
   project_authors: "Cockroach Working Group"
   project_url: "https://cockroach.speciesfile.org"
   project_old_url: "http://cockroach.archive.speciesfile.org"
-  focal_taxon: "cockroach" "termite"
-  focal_taxon_common_name: "cockroaches" "termites"
+  focal_taxon: "cockroach"
+  focal_taxon_common_name: "cockroaches"
   contact_email: "cockroachdoc@gmail.com"
