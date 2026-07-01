@@ -29,8 +29,9 @@ Try searching for species _Blattella infuscata_, or start your exploration at Ge
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, the development [team](about#project-development-and-maintenance), and details about how you can [access the data, contribute, contact us, or get help](about#contribute-or-get-help). 
 
-</div>
 ## Announcements
 
 ### Sept. 15, 2023: Welcome to our new Cockroach Species File Website
 <p>We look forward to hearing from you about your experiences with our new features as well as how you use the information you find here.</p>
+
+</div>
