@@ -1,5 +1,5 @@
 ---
-# See project.yml for variables.
+layout: blank
 ---
 <GalleryCarousel :depiction-id="[1279055]" height="470px">
   <div class="flex flex-col justify-center items-center w-full h-full bg-black/25 text-white gap-4 px-4 box-border">
@@ -11,7 +11,8 @@
     </div>
   </div>
 </GalleryCarousel>
-
+        
+<div class="container mx-auto my-8 px-4 md:px-0 box-border">
 
 # {{ app:project_name }}
 ## Mission statement
@@ -28,6 +29,7 @@ Try searching for species _Blattella infuscata_, or start your exploration at Ge
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, the development [team](about#project-development-and-maintenance), and details about how you can [access the data, contribute, contact us, or get help](about#contribute-or-get-help). 
 
+</div>
 ## Announcements
 
 ### Sept. 15, 2023: Welcome to our new Cockroach Species File Website
