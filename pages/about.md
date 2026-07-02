@@ -5,15 +5,17 @@
 Building community around and gathering knowledge about the world’s cockroaches and termites.
 
 ## Overview
-The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute or get help](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more here](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
+The _{{ app:project_name }}_ file offers a collection of richly-cited and annotated information on the Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute or get help](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more here](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
 
 ## Project development and maintenance
 
 |name|role|
 |----|----|
-| Heidi Hopkins |  |
+| Heidi Hopkins | Lead Curator, Founding author of termite data, with principal contributions from Krishna et al. 2013  |
 | George Beccaloni\* | Founding author of cockroach data |
 | David C. Eades\* | Species File Developer |
+| Christian Lucanas | Contributor |
+| Dominic Evangelista| Contributor |
 
 _\* Past contributor, now inactive._
 
@@ -25,7 +27,7 @@ The Earth's biodiversity is vast and the data captured to describe it are minima
 ### Extended data access
 A goal of these pages is to ensure that the underlying data behind them are accessible in their digital format. By diversifying the ways the data are accessible (e.g. on the web page, in JSON, in Darwin Core standard), we increase the opportunities to both spot errors and provide new services and portals.
 
-- Researchers working on this project use their rich, multi-faceted access to the data via TaxonWorks' interfaces (e.g. filters, reporting, downloads). Access requires a project account, see **Contribute or get help**.
+- Researchers working on this project use their rich, multi-faceted access to the data via TaxonWorks interfaces (e.g. filters, reporting, downloads). Access requires a project account, see **Contribute or get help**.
 - Data behind individual panels per page can be seen via the _Sitemap_ functionality.
 - Each page offers an option to download a _DarwinCore formatted table_ containing all data for this taxon and its children.
 - Panel data (each section on a page) and other information not available on these pages are accessible via a [TaxonWorks API](https://api.taxonworks.org) at [https://sfg.taxonworks.org/api/v1](https://sfg.taxonworks.org/api/v1).
@@ -34,9 +36,9 @@ A goal of these pages is to ensure that the underlying data behind them are acce
 These pages are built with open-source software. [Read more here](http://speciesfilegroup.org/docs/taxonworks_in_production_at_sfg.html) about what drives them and how they are supported by the Species File Group and their many collaborators. To get further involved [join weekly support meetings here](https://speciesfilegroup.org/events.html).
 
 ## History
-Our former website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](http://{{app:focal_taxon}}.archive.speciesfile.org).
+As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking aspects of this this migration. If you spot something that needs attention, please see **Contribute or get help**.
 
-As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see **Contribute or get help**.
+In July 2026 the unification of Isoptera Species file with Cockroach Species File generated the taxonomically complete Blattodea Species File.
 
 ## Support and funding
 This Species File functionality and content is serviced in part by the Species File Group.
