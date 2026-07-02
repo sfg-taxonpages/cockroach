@@ -11,7 +11,7 @@ The _{{ app:project_name }}_ file offers a collection of richly-cited and annota
 
 |name|role|
 |----|----|
-| Heidi Hopkins | Lead Curator, Founding author of termite data, with principal contributions from Krishna et al. 2013  |
+| Heidi Hopkins | Founding author of termite data, with principal contributions from Krishna et al. 2013  |
 | George Beccaloni\* | Founding author of cockroach data |
 | David C. Eades\* | Species File Developer |
 | Christian Lucanas | Contributor |
