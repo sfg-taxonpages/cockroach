@@ -16,7 +16,6 @@ The _{{ app:project_name }}_ file offers a collection of richly-cited and annota
 | David C. Eades\* | Species File Developer |
 | Christian Lucanas | Contributor |
 | Dominic Evangelista| Contributor |
-
 _\* Past contributor, now inactive._
 
 ### Contribute or get help
