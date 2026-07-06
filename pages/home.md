@@ -1,7 +1,7 @@
 ---
 layout: blank
 ---
-<GalleryCarousel :depiction-id="[1279055]" height="470px">
+<GalleryCarousel :depiction-id="[1279055,1279127,1279183,1279052,1279184,1279185,1279054,1279186,1279187,1279070,1279188,1279189,1279071,1279190,1279191,1279072,1279192,1279193,1279073,1279194,1279195,1279196]" height="470px">
   <div class="flex flex-col justify-center items-center w-full h-full bg-black/25 text-white gap-4 px-4 box-border">
     <span class="text-4xl font-medium">{{ app:project_name }}</span>
     <p class="text-lg sm:text-xl">A comprehensive source of knowledge on the world’s cockroaches and termites</p>
