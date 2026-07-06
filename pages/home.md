@@ -16,7 +16,7 @@ layout: blank
 
 # {{ app:project_name }}
 ## Mission statement
-The Blattodea Species File is a comprehensive source of knowledge about the world’s cockroaches and termites. Information found here includes valid nomenclature, classification, scientific sources, specimen data, images, keys, and distributions for all known Blattodea species of the world. This site may serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
+The Blattodea Species File is a comprehensive source of knowledge about the world’s cockroaches and termites. Information found here includes nomenclature, classification, taxonomic histories, research, scientific sources, specimen data, images, keys, and distributions for all known Blattodea species of the world. This site may serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
         
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, the development [team](about#project-development-and-maintenance), and details about how you can [access the data, contribute, contact us, or get help](about#contribute-or-get-help). 
