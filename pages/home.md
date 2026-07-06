@@ -7,7 +7,7 @@ layout: blank
     <p class="text-lg sm:text-xl">A comprehensive source of knowledge on the world’s cockroaches and termites</p>
     <div class="mx-auto flex flex-col items-center mt-6 sm:mt-10 w-full">
       <autocomplete-otu class="w-full sm:w-96 text-base-content ml-2 sm:ml-0" placeholder="Search by taxon name" autofocus/>
-        <p class="text-sm sm:text-base"><em>Explore! Try searching for any taxa from order <router-link to="/otus/856752">Blattodea</router-link> or just type Blatella to get started</em></p>
+        <p class="text-sm sm:text-base"><em>Explore! Try searching for any taxa from order <router-link to="/otus/856752">Blattodea</router-link> or just type Blattella to get started</em></p>
     </div>
   </div>
 </GalleryCarousel>
