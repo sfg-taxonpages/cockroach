@@ -35,9 +35,11 @@ A goal of these pages is to ensure that the underlying data behind them are acce
 These pages are built with open-source software. [Read more here](http://speciesfilegroup.org/docs/taxonworks_in_production_at_sfg.html) about what drives them and how they are supported by the Species File Group and their many collaborators. To get further involved [join weekly support meetings here](https://speciesfilegroup.org/events.html).
 
 ## History
-As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking aspects of this this migration. If you spot something that needs attention, please see **Contribute or get help**.
+In August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity).
 
 In July 2026 the unification of Isoptera Species file with Cockroach Species File generated the taxonomically complete Blattodea Species File.
+
+If you find any item that needs attention, please see **Contribute or get help**.
 
 ## Support and funding
 This Species File functionality and content is serviced in part by the Species File Group.
