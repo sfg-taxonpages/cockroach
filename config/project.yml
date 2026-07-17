@@ -1,7 +1,7 @@
 ---
   project_name: "Blattodea Species File"
   project_citation: "Blattodea Species File"
-  project_authors: "Cockroach Working Group"
+  project_authors: "Blattodea Working Group"
   project_url: "https://cockroach.speciesfile.org"
   project_old_url: "http://cockroach.archive.speciesfile.org"
   focal_taxon: "cockroach"
