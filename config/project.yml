@@ -4,6 +4,6 @@
   project_authors: "Blattodea Working Group,"
   project_url: "https://cockroach.speciesfile.org"
   project_old_url: "http://cockroach.archive.speciesfile.org"
-  focal_taxon: "cockroach"
-  focal_taxon_common_name: "cockroaches"
+  focal_taxon: "cockroach and termite"
+  focal_taxon_common_name: "cockroaches and termites"
   contact_email: "cockroachdoc@gmail.com"
