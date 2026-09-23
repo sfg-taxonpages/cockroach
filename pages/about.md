@@ -10,7 +10,7 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 
 |name|role|
 |----|----|
-| Heidi Hopkins | Lead Curator, Founding curator of termite data, with principal contributions from Krishna et al. 2013  |
+| Heidi Hopkins | Lead Curator, Founding curator of termite data, with principal contributions from Krishna et al., 2013  |
 | Christian Lucanas | Data Contributor |
 | Dominic Evangelista| Data Contributor |
 | George Beccaloni\* | Founding curator of cockroach data |
