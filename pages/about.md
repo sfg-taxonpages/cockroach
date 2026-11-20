@@ -14,11 +14,14 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 | Christian Lucanas | Data Contributor |
 | Dominic Evangelista| Data Contributor |
 | George Beccaloni\* | Founding curator of cockroach data |
+| Daniel Otte\* | Founding curator of mantid data
+| Laren Spearman\* | Founding curator of mantid data |
+| Martin Stiewe\* | Editor of mantid data |
 | David C. Eades\* | Species File Developer |
 
 _\* Now inactive._
 
-- **Cite** this website: Blattodea Working Group, Blattodea Species File. [retrieval date]. <https://cockroach.speciesfile.org>. See also [Terms of use](#terms-of-use).
+- **Cite** this website: Dictyoptera Working Group, Dictyoptera Species File. [retrieval date]. <https://dictyoptera.speciesfile.org>. See also [Terms of use](#terms-of-use).
 
 ### Contribute or get help
 The Earth's biodiversity is vast and the data captured to describe it, while minimal in comparison, are still immense. All projects of this nature contain gaps and errors, and contributions and corrections from users are always welcome. Known gaps in this project may include an incomplete catalog of type-material, lack of species depictions, missing biological associations, incomplete distribution records, and incomplete taxonomic/publication histories. <TrackerReport label="Report a problem, offer data, or get involved" tag="a" button-class="cursor-pointer" /> on our issue tracker if you would like to help us address these or other gaps in the data, or if you find a bug.
@@ -35,29 +38,37 @@ A goal of these pages is to ensure that the underlying data behind them are acce
 
 ## History
 
-The following are the major efforts to catalog the cockroaches and termites of the world.
+The following are the major efforts to catalog the cockroaches, termites and mantids of the world.
 
 ### Cockroaches:
 - Orthoptera Descripta (1838) by Hermann Burmeister
 - Catalogue of the Specimens of Blattariae in the Collection of the British Museum (1868) by Francis Walker
 - Genera Insectorum: Blattidae Series (1906–1910) by Robert Walter Campbell Shelford
 - Orthopterorum Catalogus: Pars 3, 4, 6, 7, 11, 13, 14: Blattariae (1962–1971) by Karlis Princis
-- Cockroach Species File (Digital) by George Beccaloni (~2005-2015)
+- Cockroach Species File (Digital) by George Beccaloni (~2005-2015), Heidi Hopkins (2015-present)
   
 ### Termites:
 - Monographie der Termiten (1855–1860) by Hermann Hagen
 - Catalog of the Termites (Isoptera) of the World (1949) by Thomas Elliott Snyder
 - Catalog of the Living Termites of the New World (1998) by Reginaldo Constantino
 - Treatise on the Isoptera of the World (2013) in 7 Volumes by Kumar Krishna, David A. Grimaldi, Valerie Krishna, and Michael S. Engel
-- Isoptera Species File (2023-2026) (Digital) by Heidi Hopkins
+- Isoptera Species File (Digital) by Heidi Hopkins (2023-present)
 
-In 2007, Inward et al. published their well-known paper showing that termites were phylogenetically a part of the cockroach order.
+### Mantids:
+- Histoire naturelle des insectes: Orthoptères (1838-1839) by Hermann Burmeister & Jean-Guillaume Audinet-Serville
+- Revisio Insectorum Familiae Mantidarum (1889) by John Obadiah Westwood
+- A Synonymic Catalogue of Orthoptera (1904) by William Forsell Kirby
+- Orthoptera, Mantidae (1927) by Ermanno Giglio-Tos
+- Genera Insectorum (1934–1935), Bronns Klassen und Ordnungen des Tierreichs (1964), and Handbuch der Zoologie (1968) by Max Beier
+- Mantodea: Gottesanbeterinnen der Welt (2002) by Reinhard Ehrmann
+- Mantida Species File: Catalog of the Mantids of the World (2005) by Danniel Otte & Lauren Spearman
+- Mantodea Species File (Digital) (~2005-2019) by Daniel Otte, Lauren Spearman & Martin Stiewe, Heidi Hopkins (2026-present)
 
-Inward, D., Beccaloni, G., & Eggleton, P. (2007). Death of an order: a comprehensive molecular phylogenetic study confirms that termites are eusocial cockroaches. Biology Letters, 3(3), 331–335. DOI: 10.1098/rsbl.2007.0102 
+In 2007, Inward et al. published their well-known paper showing that termites were phylogenetically a part of the cockroach order: Inward, D., Beccaloni, G., & Eggleton, P. (2007). Death of an order: a comprehensive molecular phylogenetic study confirms that termites are eusocial cockroaches. Biology Letters, 3(3), 331–335. DOI: 10.1098/rsbl.2007.0102 
 
-In 2023, the Cockroach Species File transferred to a new platform (TaxonWorks), and the Isoptera Species File originated on the same platform. At the time there was no mechanism for combining these databases, but in June, 2026 the two were finally unified to reflect the work of Inward et al. (2007), and the name modified to Blattodea Species File to better reflect the name of the now complete order.
+In 2023, the Cockroach Species File transferred to a new platform (TaxonWorks), and the Isoptera Species File originated on the same platform. At the time there was no mechanism for combining these databases, but in June 2026 the two were finally unified to reflect the work of Inward et al. (2007). In November 2026 the Mantodea Species File, representing the sister order to Blattodea and abandoned since prior to migration to the new platform, was rescued and merged with the cockroach and termite data to form the new Dictyoptera Species File.
 
-Blattodea Species Files aims to become a complete catalog of the living and extinct cockroaches and termites of the world, including the current phylogeny of the order, full taxonomic histories of individual names, asserted distributions and images of each species, bibliographies of research, and keys. Blattodea research has never been more active all over the globe and new discoveries are published monthly. Significant contributions have been made to the BSF by a number of cockroach researchers in an on-going effort to keep the species file current, and to fill in data that is missing.
+Dictyoptera Species Files aims to become a complete catalog of the living, extinct and fossil cockroaches, termites and mantids of the world, including the current phylogeny of the order, full taxonomic histories of individual names, asserted distributions and images of each species, comprehensive bibliographies of research, and keys. Significant contributions have been made to the Dictyoptera Species File by a number of cockroach researchers in an on-going effort to keep the species file current, and to fill in data that is missing. Anyone interested in contributing to the maintenance and improvement of the species file is encouraged to make contact here <TrackerReport label="Get involved" tag="a" button-class="cursor-pointer" />
 
 
 ## Support and funding
