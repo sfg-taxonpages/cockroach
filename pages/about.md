@@ -62,7 +62,7 @@ The following are the major efforts to catalog the cockroaches, termites and man
 - Genera Insectorum (1934–1935), Bronns Klassen und Ordnungen des Tierreichs (1964), and Handbuch der Zoologie (1968) by Max Beier
 - Mantodea: Gottesanbeterinnen der Welt (2002) by Reinhard Ehrmann
 - Mantida Species File: Catalog of the Mantids of the World (2005) by Danniel Otte & Lauren Spearman
-- Mantodea Species File (Digital) (~2005-2019) by Daniel Otte, Lauren Spearman & Martin Stiewe, Heidi Hopkins (2026-present)
+- Mantodea Species File (Digital) by Daniel Otte, Lauren Spearman & Martin Stiewe (~2005-2019), Heidi Hopkins (2026-present)
 
 In 2007, Inward et al. published their well-known paper showing that termites were phylogenetically a part of the cockroach order: Inward, D., Beccaloni, G., & Eggleton, P. (2007). Death of an order: a comprehensive molecular phylogenetic study confirms that termites are eusocial cockroaches. Biology Letters, 3(3), 331–335. DOI: 10.1098/rsbl.2007.0102 
 
